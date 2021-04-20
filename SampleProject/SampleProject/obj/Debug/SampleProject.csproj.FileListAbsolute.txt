@@ -1,0 +1,6 @@
+C:\Users\450G6\Desktop\Unit-Testing-NUnit\SampleProject\SampleProject\bin\Debug\SampleProject.dll
+C:\Users\450G6\Desktop\Unit-Testing-NUnit\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\450G6\Desktop\Unit-Testing-NUnit\SampleProject\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+C:\Users\450G6\Desktop\Unit-Testing-NUnit\SampleProject\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+C:\Users\450G6\Desktop\Unit-Testing-NUnit\SampleProject\SampleProject\obj\Debug\SampleProject.dll
+C:\Users\450G6\Desktop\Unit-Testing-NUnit\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
