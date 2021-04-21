@@ -60,6 +60,27 @@ namespace SampleProject.UnitTests.Fundamentals.Tests
             Assert.AreEqual(result, 1);
         }
 
+        [Test]
+        public void GetOddNumbers_LimitIsGreatherThanZero_ReturnsOddNumbersUpToLimit()
+        {
+            var result=_math.GetOddNumbers(5);
+
+            // Very general assertions
+            // Assert.That(result, Is.Not.Empty);
+            // Assert.That(result.Count, Is.EqualTo(3));
+
+            // More specific
+            // Assert.That(result, Does.Contain(1));
+            // Assert.That(result, Does.Contain(3));
+            // Assert.That(result, Does.Contain(4));
+
+            Assert.That(result, Is.EquivalentTo(new[] { 1, 3, 5 }));
+
+            // Additional assertions related to testing collections
+            // Assert.That(result, Is.Ordered);
+            // Assert.That(result, Is.Unique);
+        }
+
         //Parameterized tests
         [Test]
         [TestCase(2,1,2)]
