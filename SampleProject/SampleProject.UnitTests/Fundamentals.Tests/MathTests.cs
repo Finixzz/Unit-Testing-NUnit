@@ -63,7 +63,7 @@ namespace SampleProject.UnitTests.Fundamentals.Tests
         [Test]
         public void GetOddNumbers_LimitIsGreatherThanZero_ReturnsOddNumbersUpToLimit()
         {
-            var result=_math.GetOddNumbers(5);
+            var result = _math.GetOddNumbers(5);
 
             // Very general assertions
             // Assert.That(result, Is.Not.Empty);
